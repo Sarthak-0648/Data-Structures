@@ -13,4 +13,3 @@ void moveElements(int arr[], int n){
     }
   }
 }
-© 2021 GitHub
